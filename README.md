@@ -1,2 +1,2 @@
 # repositorio-de-teste-1
-autenticação via ssh [x]
+autenticação via ssh [ ]
